@@ -9,4 +9,4 @@ Finally, print the output.
 
 
 
-In insertion sort the array is divided into two parts sorted and unsorted ,then the first element is taken from the unsorted array and sort it in sorted array
+**In insertion sort the array is divided into two parts sorted and unsorted ,then the first element is taken from the unsorted array and sort it in sorted array
